@@ -1,0 +1,8 @@
+# Vim temporaries
+*~
+.*.swp
+
+# Build files
+/catacon
+/obj/
+
